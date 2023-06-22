@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- Hi, I am Tan Zhi Heng
+- I am studying Computer Science at the National University of Singapore
+- 📫 How to reach me: @tanzhiheng on Telegram or tanzhiheng26@gmail.com
 <!--
 **Tanzhiheng26/Tanzhiheng26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
