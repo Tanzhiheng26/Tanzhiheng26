@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Hi, I am Tan Zhi Heng
+- I am Tan Zhi Heng
 - I am studying Computer Science at the National University of Singapore
 - 📫 How to reach me: @tanzhiheng on Telegram or tanzhiheng26@gmail.com
 <!--
